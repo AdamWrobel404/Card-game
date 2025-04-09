@@ -1,2 +1,7 @@
 # Card-game
-Card Battle Game is a simple turn-based card game developed in C++ using the wxWidgets GUI framework. The player faces off against one of three unique AI-controlled opponents, each with their own playstyle and set of moves. The objective is to strategically use your cards to defeat your opponent in a battle of tactics and timing.
+
+# Opis gry
+Card Battle to turowa gra karciana stworzona w języku C++ z wykorzystaniem biblioteki wxWidgets do obsługi graficznego interfejsu użytkownika. Gracz mierzy się z jednym z trzech przeciwników, z których każdy posiada unikalny styl gry oraz zestaw ruchów. Celem gry jest pokonanie jednego z trzech przeciwników w turowym pojedynku karcianym. Każdy z przeciwników posiada unikalne ruchy i strategię, co wymaga od gracza przemyślanego użycia kart oraz dostosowania taktyki do stylu przeciwnika.
+
+# Projekt zespołowy
+W ramach prac nad aplikacją odpowiadałem m.in. za pomysł, styl graficzny, archetypy kart oraz przeciwników, część funkcji.
